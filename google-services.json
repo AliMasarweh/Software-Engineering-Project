@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "590253792744",
+    "firebase_url": "https://traingle-university.firebaseio.com",
+    "project_id": "traingle-university",
+    "storage_bucket": "traingle-university.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590253792744:android:b0bc164e3a8c1d81",
+        "android_client_info": {
+          "package_name": "com.alimasarweh.traingleuniversity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590253792744-u8i4nvmhcjm5mnv3fr9rhq7oarhtsopi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbL-w2hJ_Q9HzhswTsINyRcppKLEudMA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
