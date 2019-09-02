@@ -1,4 +1,2 @@
 # Software-Engineering-Project
-Ariel University Course: Software Engineering
-
-This is a simplified university application using firebase as the data base
+The Parctical Project, A Simplified University App with FireBase as Databases, of Software Engineering Course 
